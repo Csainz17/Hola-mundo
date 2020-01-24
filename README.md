@@ -1,5 +1,6 @@
 # Hola-mundo
 primer ejemplo github
+<<<<<<< HEAD
 
           
                          _
@@ -23,3 +24,5 @@ primer ejemplo github
       ||TTTTTTTTTTT|  |======|  |TTTTTTTTTTTTTTTT
       ||||||||||||||  |======|  |||||||||||||||||
      ^^^^^^^^^^^^^^^^^^      ^^^^^^^^^^^^^^^^^^^^^
+=======
+>>>>>>> parent of a4bb4ac... Update README.md
